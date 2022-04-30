@@ -1,0 +1,10 @@
+Prueba práctica Java
+Indizen Group/Prueba práctica Java.html
+
+desde el fichero test_29 al test_3  y 
+las clases: Factura.java, Factura
+
+FactoriaFactura.java
+FacturaConIgic.java
+FacturaConIva.java
+FacturaMain.java
